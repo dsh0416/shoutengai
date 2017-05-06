@@ -1,7 +1,7 @@
 # shoutengai
 ruby e-commercial business model gem
 
-[![Build Status](https://travis-ci.org/tallty/shoutenkai.svg?branch=master)](https://travis-ci.org/tallty/shoutenkai)
+[![Build Status](https://travis-ci.org/tallty/shoutengai.svg?branch=master)](https://travis-ci.org/tallty/shoutengai)
 [![Code Climate](https://codeclimate.com/github/tallty/shoutengai/badges/gpa.svg)](https://codeclimate.com/github/tallty/shoutengai)
 [![Test Coverage](https://codeclimate.com/github/tallty/shoutengai/badges/coverage.svg)](https://codeclimate.com/github/tallty/shoutengai/coverage)
 [![Issue Count](https://codeclimate.com/github/tallty/shoutengai/badges/issue_count.svg)](https://codeclimate.com/github/tallty/shoutengai)
