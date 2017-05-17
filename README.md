@@ -7,3 +7,13 @@
 | Documentation   | [![doc](http://inch-ci.org/github/tallty/shoutengai.svg?branch=master)](http://inch-ci.org/github/tallty/shoutengai) | [![yard](https://img.shields.io/badge/docs-yard-brightgreen.svg)](http://www.rubydoc.info/gems/shoutengai) |                                          |
 | Contribution    | [![CLA assistant](https://cla-assistant.io/readme/badge/tallty/shoutengai)](https://cla-assistant.io/tallty/shoutengai) | [![license](https://img.shields.io/github/license/tallty/shoutengai.svg?maxAge=2592000)]() |                                          |
 
+## Feature List
+
+- [ ] Shopping Cart
+- [ ] Categories
+- [ ] Metadata
+- [ ] Order Management
+- [ ] Item Snapshot
+- [ ] Promotion System
+- [ ] Analysis
+- [ ] Statistics System
