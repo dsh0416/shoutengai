@@ -6,6 +6,6 @@ class Shoutengai::Configure
   set :logger, Logger.new(STDOUT)
   set :database, {
     adapter: 'sqlite',
-    database: 'shoutengai/db/test.db',
+    database: 'test.db',
   }
 end

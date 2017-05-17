@@ -6,7 +6,7 @@ module Shoutengai
       @logger = options.logger
       # Perform migration up to latest migration available
       ::Sequel.extension :migration
-      ::Sequel::Migrator.run(@db, 'shoutengai/migrations')
+      ::Sequel::Migrator.run(@db, File.join(File.dirname(__FILE__), 'migrations'))
       @logger.info("Running at Shoutengai Migration #{@db[:schema_info].first[:version]}")
 
       require_relative 'models/category'
