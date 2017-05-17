@@ -12,4 +12,5 @@ Gem::Specification.new do |s|
     - %w(README.md CONTRIBUTOR_COVENANT_CODE_OF_CONDUCT.md Gemfile Rakefile hanabi.gemspec .gitignore .rspec .codeclimate.yml .rubocop.yml .travis.yml logo.png Rakefile Gemfile)
   s.homepage                 = 'https://github.com/tallty/shoutengai'
   s.license                  = 'MIT'
+  s.add_runtime_dependency     'sequel', '~> 4.40'
 end
